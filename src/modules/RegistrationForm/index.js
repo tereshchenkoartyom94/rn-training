@@ -88,8 +88,6 @@ class RegistrationForm extends PureComponent {
       repeatPassword,
     } = this.state;
 
-    console.log(this.state.name);
-
     return (
       <ScrollView>
         <View>
